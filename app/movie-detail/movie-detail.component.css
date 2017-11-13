@@ -1,0 +1,12 @@
+
+
+.btn-btn-default{
+    position: absolute;
+    align-self:bottom;
+    bottom: 20px;
+    right: 20px;
+}
+.well:hover{  
+    color: white;
+    background-color: black;
+  }
